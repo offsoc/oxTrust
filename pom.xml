@@ -30,7 +30,7 @@
 
 		<antlr4.version>4.7.1</antlr4.version>
 
-		<jetty.version>9.4.43.v20210629</jetty.version>
+		<jetty.version>11.0.25</jetty.version>
 
 		<arquillian.version>1.4.0.Final</arquillian.version>
 		<arquillian.rest.version>1.0.0.Alpha4</arquillian.rest.version>
